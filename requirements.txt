@@ -1,4 +1,4 @@
-Flask
+﻿Flask
 gunicorn
 Jinja2
 Werkzeug
@@ -7,4 +7,3 @@ pandas
 scipy
 scikit-learn
 matplotlib
-pickle
